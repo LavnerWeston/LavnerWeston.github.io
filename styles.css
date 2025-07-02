@@ -3,7 +3,7 @@ h1,h2{color:blue;
 h1:hover,h2:hover{color:crimson}
 h1{
     font-family: "Bebas Neue";
-    font-size: large;
+    font-size:x-large;
     width: 100px;
 }
 .header{
