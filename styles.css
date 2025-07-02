@@ -13,5 +13,11 @@ h1{
 }
 body{
 background-image: url(https://tse4.mm.bing.net/th/id/OIP.W9lTF-zXFlEt-zU04vT4awHaL2?r=0&rs=1&pid=ImgDetMain&o=7&rm=3);    
-background-size: contain;
+background-size: 5vw, 5vw;
+background-repeat: repeat;
+}
+
+footer{
+    clear:both;
+    position:sticky;
 }
