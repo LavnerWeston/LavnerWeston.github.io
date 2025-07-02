@@ -5,7 +5,7 @@ h1{
     font-family: "Bebas Neue";
     font-size: large;
 }
-h1{border-style: solid;
+.border{border-style: solid;
     border-color: aqua;
     border-radius: 100px
 }
