@@ -12,7 +12,7 @@ h1{
     border-radius: 100px;
 }
 body{
-    background :linear-gradiant(blue,grey);
+    background :linear-gradient(grey, blue);
     background-repeat: no-repeat;
     background-attachment: fixed;
 }
