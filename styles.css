@@ -9,5 +9,7 @@ h1{
 .header{
     border-style: solid;
     border-color: aqua;
-    border-radius: 100px
+    border-radius: 100px;
+    background :linear-gradiant(blue,grey);
+    color:white;
 }
