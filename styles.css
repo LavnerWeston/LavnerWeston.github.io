@@ -5,3 +5,7 @@ h1{
     font-family: "Bebas Neue";
     font-size: medium;
 }
+h1{border-style: solid;
+    border-color: aqua;
+    border-radius: 100px
+}
