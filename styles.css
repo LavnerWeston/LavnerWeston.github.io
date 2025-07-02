@@ -4,8 +4,10 @@ h1:hover,h2:hover{color:crimson}
 h1{
     font-family: "Bebas Neue";
     font-size: large;
+    width: 100px;
 }
-.header{border-style: solid;
+.header{
+    border-style: solid;
     border-color: aqua;
     border-radius: 100px
 }
